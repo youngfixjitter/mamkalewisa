@@ -3,7 +3,7 @@
     "id": 3491,
     "title": "Victory Race Script | AUTO FARM",
     "excerpt": "local vu = game:GetService(\"VirtualUser\")\r\ngame:GetService(\"Players\").LocalPlayer.Idled:connect(function()\r\nvu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)\r\nwait(1)\r\nvu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)\r\nend)\r\nif game.PlaceId == 4951858512 then\r\nlocal Library = loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua\"))()\r\nlocal Window = Library.CreateLib(\"Hi thanks for using it :D\", \"Ocean\")\r\nlocal Main = Window:NewTab(\"Main\")\r\nlocal MainSection = Main:NewSection(\"Main\")\r\n--Main\r\nMainSection:NewToggle(\"win autofarm\", \"autofarms wins\", function(state)\r\nif state then\r\n_G.functiond = true;\r\nspawn(function()\r\nwhile _G.functiond == true do\r\nwait(.88)\r\nfor _, v in pairs(game.Workspace:GetDescendants()) do\r\nif v:IsA(\"TouchTransmitter\") or v:IsA(\"TouchInterest\") then\r\nfiretouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart or game.Players.LocalPlayer.Character.Torso, v:FindFirstAncestorWhichIsA(\"Part\"),0)\r\nend\r\nend\r\nend\r\nend)\r\nelse\r\n_G.functiond = false;\r\nspawn(function()\r\nwhile _G.functiond == true do\r\nwait(.88)\r\nfor _, v in pairs(game.Workspace:GetDescendants()) do\r\nif v:IsA(\"TouchTransmitter\") or v:IsA(\"TouchInterest\") then\r\nfiretouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart or game.Players.LocalPlayer.Character.Torso, v:FindFirstAncestorWhichIsA(\"Part\"),0)\r\nend\r\nend\r\nend\r\nend)\r\nend\r\nend)\r\n--Settings--\r\nlocal Settings = Window:NewTab(\"Settings\")\r\nlocal SettingsSection = Settings:NewSection(\"Settings\")\r\nSettingsSection:NewKeybind(\"ToggleGui\", \"?\", Enum.KeyCode.RightControl, function()\r\nLibrary:ToggleUI()\r\nend)\r\n--Credits--\r\nlocal Credits = Window:NewTab(\"Credits\")\r\nlocal CreditsSection = Credits:NewSection(\"Credits\")\r\nCreditsSection:NewButton(\"Creator Owenn#1382\", \"Discord\", function()\r\nprint(\"balls\")\r\nend)\r\nCreditsSection:NewButton(\"KavoLibary\", \"https://xheptcofficial.gitbook.io/kavo-library/\", function()\r\nprint(\"https://xheptcofficial.gitbook.io/kavo-library/\")\r\nend)\r\nend",
-    "date": "2022-08-18 01:13:53",
+    "date": "5-03-2023 01:13:53",
     "slug": "victory-race-script-auto-farm-2",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-76-ptdqfzn5yo23f2odra3z7f3xk1wh3hvazpmi9yxyoo-1-150x124.png"
@@ -13,7 +13,7 @@
     "id": 3489,
     "title": "Victory Race Script | AUTO FARM",
     "excerpt": "local vu = game:GetService(\"VirtualUser\")\r\ngame:GetService(\"Players\").LocalPlayer.Idled:connect(function()\r\nvu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)\r\nwait(1)\r\nvu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)\r\nend)\r\nif game.PlaceId == 4951858512 then\r\nlocal Library = loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua\"))()\r\nlocal Window = Library.CreateLib(\"Hi thanks for using it :D\", \"Ocean\")\r\nlocal Main = Window:NewTab(\"Main\")\r\nlocal MainSection = Main:NewSection(\"Main\")\r\n--Main\r\nMainSection:NewToggle(\"win autofarm\", \"autofarms wins\", function(state)\r\nif state then\r\n_G.functiond = true;\r\nspawn(function()\r\nwhile _G.functiond == true do\r\nwait(.88)\r\nfor _, v in pairs(game.Workspace:GetDescendants()) do\r\nif v:IsA(\"TouchTransmitter\") or v:IsA(\"TouchInterest\") then\r\nfiretouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart or game.Players.LocalPlayer.Character.Torso, v:FindFirstAncestorWhichIsA(\"Part\"),0)\r\nend\r\nend\r\nend\r\nend)\r\nelse\r\n_G.functiond = false;\r\nspawn(function()\r\nwhile _G.functiond == true do\r\nwait(.88)\r\nfor _, v in pairs(game.Workspace:GetDescendants()) do\r\nif v:IsA(\"TouchTransmitter\") or v:IsA(\"TouchInterest\") then\r\nfiretouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart or game.Players.LocalPlayer.Character.Torso, v:FindFirstAncestorWhichIsA(\"Part\"),0)\r\nend\r\nend\r\nend\r\nend)\r\nend\r\nend)\r\n--Settings--\r\nlocal Settings = Window:NewTab(\"Settings\")\r\nlocal SettingsSection = Settings:NewSection(\"Settings\")\r\nSettingsSection:NewKeybind(\"ToggleGui\", \"?\", Enum.KeyCode.RightControl, function()\r\nLibrary:ToggleUI()\r\nend)\r\n--Credits--\r\nlocal Credits = Window:NewTab(\"Credits\")\r\nlocal CreditsSection = Credits:NewSection(\"Credits\")\r\nCreditsSection:NewButton(\"Creator Owenn#1382\", \"Discord\", function()\r\nprint(\"balls\")\r\nend)\r\nCreditsSection:NewButton(\"KavoLibary\", \"https://xheptcofficial.gitbook.io/kavo-library/\", function()\r\nprint(\"https://xheptcofficial.gitbook.io/kavo-library/\")\r\nend)\r\nend",
-    "date": "2022-08-18 01:13:52",
+    "date": "5-03-2023 01:13:52",
     "slug": "victory-race-script-auto-farm",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-76-ptdqfzn5yo23f2odra3z7f3xk1wh3hvazpmi9yxyoo-150x124.png"
@@ -23,7 +23,7 @@
     "id": 3487,
     "title": "Rainbow Friends Script | AUTO FARM COINS",
     "excerpt": "loadstring(game:HttpGet('https://pastebinp.com/raw/G9BeM7pe'))()",
-    "date": "2022-08-18 01:13:44",
+    "date": "5-03-2023 01:13:44",
     "slug": "rainbow-friends-script-auto-farm-coins",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-6-10-300x169-1-ptdqco9nupioglhs4cicwr8e448uxxpe7arubtuymw-150x124.png"
@@ -33,7 +33,7 @@
     "id": 3485,
     "title": "Project Slayers Script | KILL AURA, TELEPORTS, INFINITE BREATH &amp; STAMINA",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TweedLeak/Scripts/main/Project-Slayers.lua\"))()",
-    "date": "2022-08-18 01:13:36",
+    "date": "5-03-2023 01:13:36",
     "slug": "project-slayers-script-kill-aura-teleports-infinite-breath-stamina",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-10-9-300x169-1-ptdq9rxks3junvpc1lerpzk86cj47j76sycy245ntk-150x124.png"
@@ -43,7 +43,7 @@
     "id": 3483,
     "title": "A Universal Time Script | THUG FARM, ITEMS FARM, GODMODE, TELEPORTS",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TweedLeak/Scripts/main/A-Universal-Time\"))()",
-    "date": "2022-08-18 01:13:28",
+    "date": "5-03-2023 01:13:28",
     "slug": "a-universal-time-script-thug-farm-items-farm-godmode-teleports",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-77-ptdq6hhwuz1q10hd967rztg5bsqv9o50co5rl919lk-150x124.png"
@@ -53,7 +53,7 @@
     "id": 3481,
     "title": "Crewmates Script | REMOVE BACKPACK, CALL MEETING, FREEZE GAME &amp; MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Yaki-0/Roblox/main/scripts/AmongUs.lua\"))()",
-    "date": "2022-08-18 01:13:09",
+    "date": "5-03-2023 01:13:09",
     "slug": "crewmates-script-remove-backpack-call-meeting-freeze-game-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-75-ptdq037gckah0jrvlwo6ixk7se9xvtqrt0bt0gipy0-150x124.png"
@@ -63,7 +63,7 @@
     "id": 3479,
     "title": "Mining Clicker Simulator Script | AUTO MINE, AUTO BUY PICKAXE, AUTO REBIRTH &amp; MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://github.com/N4RWH4L/Scripts/raw/main/MiningClickerSimulator.lua\", true))()",
-    "date": "2022-08-18 01:12:54",
+    "date": "5-03-2023 01:12:54",
     "slug": "mining-clicker-simulator-script-auto-mine-auto-buy-pickaxe-auto-rebirth-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/KsW8VNo-3909245292-ptdptuk0z5qxxqu71pkch091tb17s5yxa4erbbrt94-150x124.png"
@@ -73,7 +73,7 @@
     "id": 3477,
     "title": "Farm Factory Tycoon Script | INFINITE MONEY",
     "excerpt": "getgenv().givemoney = true -- set to false if u want to stop\r\nwhile task.wait() and givemoney do -- set to whatever number inside double quotes to make it slower\r\ngame:GetService(\"ReplicatedStorage\").Remote.Event.RandomGift:FindFirstChild(\"[C-S]GetFreeGoldEgg\"):FireServer() -- delete 1 - 2 of this 3 lines to make it slower if youre lagging bad but u earn less\r\ngame:GetService(\"ReplicatedStorage\").Remote.Event.RandomGift:FindFirstChild(\"[C-S]GetFreeGoldMilk\"):FireServer() -- delete 1 - 2 of this 3 lines to make it slower if youre lagging bad but u earn less\r\ngame:GetService(\"ReplicatedStorage\").Remote.Event.RandomGift:FindFirstChild(\"[C-S]GetFreeGoldWool\"):FireServer() -- delete 1 - 2 of this 3 lines to make it slower if youre lagging bad but u earn less\r\nend",
-    "date": "2022-08-18 01:12:44",
+    "date": "5-03-2023 01:12:44",
     "slug": "farm-factory-tycoon-script-infinite-money",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/sE5TFvy-ptdpnmufsl8p6jv5c0v4zkpcflnuw7at3d573gzie0-1-150x124.png"
@@ -83,7 +83,7 @@
     "id": 3475,
     "title": "Venture Tales Script | AUTO FARM",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ObscureScapter/Roblox/main/VTAF\"))()",
-    "date": "2022-08-18 01:12:36",
+    "date": "5-03-2023 01:12:36",
     "slug": "venture-tales-script-auto-farm",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/sE5TFvy-ptdpnmufsl8p6jv5c0v4zkpcflnuw7at3d573gzie0-150x124.png"
@@ -93,7 +93,7 @@
     "id": 3473,
     "title": "SERVER STATS Script | ICONS GUI",
     "excerpt": "-- ! Some of features only work when script is placed inside autoexec (autoexecution, [EXECUTOR_FOLDER]  autoexec - for example) folder of your exploit. Also recommended to add \"!!!\" in script name, ex. \"!!!_GUI.luau\" for better effect.\r\n-- * Got questions/long messages? Contact on Discord [deuces#1961] - *Copy Insides of brackets*\r\nloadstring(game:HttpGet(\"https://pastebinp.com/raw/qSQKxrkt\", true))()",
-    "date": "2022-08-18 01:12:23",
+    "date": "5-03-2023 01:12:23",
     "slug": "server-stats-script-icons-gui",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/SeYBrS-3090139445-ptdpe7ip9ec6rbk1dg6thgbxzi4cpgvpgpmwukyms8-150x124.png"
@@ -103,7 +103,7 @@
     "id": 3471,
     "title": "Home Run Simulator Script | AUTO FARM &amp; MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xdeformedbread/My-Scripts/main/NEW%20EVERYTHING.lua\"))()",
-    "date": "2022-08-18 01:12:16",
+    "date": "5-03-2023 01:12:16",
     "slug": "home-run-simulator-script-auto-farm-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-69-ptbw4gn4l1pnjsp08rbfdejm9jq0oijsejo1z0ydaw-150x124.png"
@@ -113,7 +113,7 @@
     "id": 3469,
     "title": "Karate Kick Simulator Script | INFINITE MONEY",
     "excerpt": "game.ReplicatedStorage.REvents.GainMoney:FireServer(9e99, game.Players.LocalPlayer.Character)",
-    "date": "2022-08-18 01:12:01",
+    "date": "5-03-2023 01:12:01",
     "slug": "karate-kick-simulator-script-infinite-money",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-70-ptbvy1etvsx47q0vqzd7c0w84rdq2z1tir6lwyh7tk-150x124.png"
@@ -123,7 +123,7 @@
     "id": 3467,
     "title": "Basketball Stars Script | AIMBOT, FAKE SUPER, SPEED, TELEPORT TO LOBBY &amp; MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tigakVK/first/main/basketball%20stars\"))()",
-    "date": "2022-08-18 01:11:42",
+    "date": "5-03-2023 01:11:42",
     "slug": "basketball-stars-script-aimbot-fake-super-speed-teleport-to-lobby-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-68-ptbvrwir9qiqfcxqktvvk2mwj7mgu3owcdvi4xkqfs-150x124.png"
@@ -133,7 +133,7 @@
     "id": 3465,
     "title": "Tatakai V.2 Script | AUTO EAT FOOD – ADJUSTABLE PERCENTAGE",
     "excerpt": "getgenv().autoeat = true -- change to false to stop\r\ngetgenv().food = \"Ramen\" -- select food name you want\r\ngetgenv().percentage = \"10/100\" -- percentage\r\ncoroutine.resume(coroutine.create(function()\r\nwhile getgenv().autoeat == true do task.wait()\r\npcall(function()\r\nif game:GetService(\"Players\").LocalPlayer.PlayerGui.MainGui.StatusFrame.Hunger.stat.Text == getgenv().percentage then\r\ngame:GetService('Players').LocalPlayer.Backpack[(getgenv().food)].Parent = game:GetService('Players').LocalPlayer.Character\r\ngame:GetService('Players').LocalPlayer.Character:FindFirstChild(getgenv().food):Activate()\r\ntask.wait(10)\r\nend\r\nend)\r\nend\r\nend))",
-    "date": "2022-08-18 01:11:31",
+    "date": "5-03-2023 01:11:31",
     "slug": "tatakai-v-2-script-auto-eat-food-adjustable-percentage",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/percentage_example-pta5rc6ulub2lrv16si4agbaujngeqkbe7rt37tl94-150x124.png"
@@ -143,7 +143,7 @@
     "id": 3463,
     "title": "Legend Piece Script | INSTANT KILL MOBS",
     "excerpt": "--[[\r\nYou have to hit the mob to get kill credit\r\nI am to lazy to make an auto farm if you really want to do it urself\r\nlitterally just punch the mob you want to get the kill credit for and press the singlekey\r\nit will kill the nearest mob\r\nScript by: CompileError\r\nIm not gonna bother doing anything else with this if you want to add it to a hub be my guest\r\nIf the devs give any shits about this game it would be patch pretty quick anyways so yeah\r\nlitterally just deletes the UpperTorso XD\r\nNo it does not work on players\r\nI have not tried it on NPCs nor am I going to\r\nDo what you want with this\r\nyou can also change the key bind as idk what keys are and are not used in game\r\nDefult G\r\n]]\r\nlocal singlekey = \"G\" -- kills nearest mob\r\n--some setup\r\nlocal StarterGui = game:GetService(\"StarterGui\")\r\nlocal UserInputService = game:GetService('UserInputService')\r\nlocal LocalPlayer = game:GetService('Players').LocalPlayer\r\nlocal mobs = game:GetService(\"Workspace\").Monster\r\nlocal function getNearestMob()\r\nlocal closest\r\nlocal closestmagnitude\r\nfor _,mob in pairs(mobs:GetChildren()) do\r\nlocal distance = LocalPlayer:DistanceFromCharacter(mob.PrimaryPart.Position)\r\nif closest and distance &lt; closestmagnitude then\r\nclosestmagnitude = distance\r\nclosest = mob\r\nelseif not closest then\r\nclosestmagnitude = distance\r\nclosest = mob\r\nend\r\nend\r\nreturn closest\r\nend\r\nStarterGui:SetCore(&quot;SendNotification&quot;, {\r\nTitle = &quot;Legned Piece Kill mob&quot;;\r\nText = &quot;Made by: CompileError&quot;\r\n})\r\n--the script\r\nUserInputService.InputBegan:Connect(function(input, gameProcessedEvent)\r\nif not gameProcessedEvent then\r\nlocal keycode = input.KeyCode\r\nif input.UserInputType == Enum.UserInputType.Keyboard then\r\nlocal keycode = input.KeyCode\r\nif keycode == Enum.KeyCode[singlekey] then\r\nlocal mob = getNearestMob()\r\nmob.UpperTorso:Destroy() --insta kill I know so difficult the most complex script\r\nStarterGui:SetCore(&quot;SendNotification&quot;, {\r\nTitle = &quot;killed nearest mob&quot;;\r\nText = &quot;/me dabs&quot;\r\n})\r\nend\r\nend\r\nend\r\nend)",
-    "date": "2022-08-18 01:11:22",
+    "date": "5-03-2023 01:11:22",
     "slug": "legend-piece-script-instant-kill-mobs",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-66-pta5l6cxsxvehst964m5y0ainm0ty63nvpt7twyi1k-1-150x124.png"
@@ -153,7 +153,7 @@
     "id": 3461,
     "title": "Legend Piece Script | SERVER CRASHER",
     "excerpt": "while (task.wait()) do\r\nfor i = 0, 100 do\r\nlocal l__ReplicatedStorage__1 = game:GetService(\"ReplicatedStorage\");\r\nlocal l__Conqueror__5 = l__ReplicatedStorage__1:WaitForChild(\"Remotes\"):WaitForChild(\"Conqueror\");\r\nl__Conqueror__5:FireServer();\r\nend\r\nend",
-    "date": "2022-08-18 01:06:48",
+    "date": "5-03-2023 01:06:48",
     "slug": "legend-piece-script-server-crasher",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-66-pta5l6cxsxvehst964m5y0ainm0ty63nvpt7twyi1k-150x124.png"
@@ -163,7 +163,7 @@
     "id": 3459,
     "title": "AU:Reborn Script | INSTANT &amp; INFINITE AWAKENING",
     "excerpt": "loadstring(game:HttpGet('https://hastebin.com/raw/umisagohag'))()",
-    "date": "2022-08-18 01:06:35",
+    "date": "5-03-2023 01:06:35",
     "slug": "aureborn-script-instant-infinite-awakening",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-22-300x169-1-pta5i0mgtzjpgzegm9gb2azqrzlf2sk542vgrfn4yg-150x124.png"
@@ -173,7 +173,7 @@
     "id": 3457,
     "title": "RACE CLICKER SCRIPT | Lazy HUB | AUTO FARM &amp; MORE!",
     "excerpt": "_G.AutoRace = false\r\nlocal lp = game.Players.LocalPlayer\r\nwhile _G.AutoRace do task.wait()\r\nif lp and lp.Character and lp.Character:FindFirstChild(\"HumanoidRootPart\") then\r\nif lp.PlayerGui[\"UI_Main\"].UI.TopMenu.RaceTimer.TextLabel.Text ~= \"\" then\r\nfor i,v in pairs(game:GetService(\"Workspace\").Environment:GetChildren()) do\r\nif v:IsA(\"Folder\") and v:FindFirstChild(\"Sign\") and _G.AutoRace then\r\nlp.Character:WaitForChild(\"HumanoidRootPart\").CFrame = v:FindFirstChild(\"Sign\").CFrame\r\ntask.wait()\r\nend\r\nend\r\nelse\r\nlp.Character:WaitForChild(\"HumanoidRootPart\").CFrame = game:GetService(\"Workspace\").Lobby.SpawnLocation.SpawnLocation.CFrame\r\nend\r\nend\r\nend",
-    "date": "2022-08-18 01:06:24",
+    "date": "5-03-2023 01:06:24",
     "slug": "race-clicker-script-lazy-hub-auto-farm-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-67-pta58jf1x4kmej62ynyqf73f54b6gnxkt627jzp1p4-2-150x124.png"
@@ -183,7 +183,7 @@
     "id": 3455,
     "title": "Race Clicker Script | AUTO FARM SCRIPT – AUGUST 2022",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/pa1nx9/qwe/main/raceclicker.lua\"))()",
-    "date": "2022-08-18 01:06:16",
+    "date": "5-03-2023 01:06:16",
     "slug": "race-clicker-script-auto-farm-script-august-2022",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-67-pta58jf1x4kmej62ynyqf73f54b6gnxkt627jzp1p4-1-150x124.png"
@@ -193,7 +193,7 @@
     "id": 3453,
     "title": "Race Clicker Script | INFINITE SPEED",
     "excerpt": "_G.Speed = 1000000\r\nlocal mt = getrawmetatable(game)\r\nlocal old = mt.__namecall\r\nsetreadonly(mt, false)\r\nmt.__namecall = function(self, ...)\r\nif getnamecallmethod() == 'Kick' then\r\nreturn wait(9e9)\r\nend\r\nreturn old(self, ...)\r\nend\r\nlocal oldd = mt.__index\r\nmt.__index = function(self, property)\r\nif property == 'WalkSpeed' then\r\nreturn 16\r\nend\r\nreturn oldd(self, property)\r\nend\r\nsetreadonly(mt, true)\r\ngame.Players.LocalPlayer.Character.Humanoid.WalkSpeed = _G.Speed",
-    "date": "2022-08-18 01:06:08",
+    "date": "5-03-2023 01:06:08",
     "slug": "race-clicker-script-infinite-speed",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-67-pta58jf1x4kmej62ynyqf73f54b6gnxkt627jzp1p4-150x124.png"
@@ -203,7 +203,7 @@
     "id": 3451,
     "title": "PLS DONATE Script | AUTO FARM",
     "excerpt": "loadstring(game:HttpGet('https://raw.githubusercontent.com/tzechco/roblox-scripts/main/PLS%20DONATE/autofarm.lua'))()",
-    "date": "2022-08-18 01:05:58",
+    "date": "5-03-2023 01:05:58",
     "slug": "pls-donate-script-auto-farm",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/5JpknMn-3430955725-pta52armjq13bq8eeguwd9s9612gd05qaa55uuy508-150x124.png"
@@ -213,7 +213,7 @@
     "id": 3449,
     "title": "Anime Squad Simulator Script | INF MONEY",
     "excerpt": "local Amount = 100 --Amount of money to give yourself (btw it takes away recruit tokens)\r\ngame:GetService(\"ReplicatedStorage\").Remotes.RecruitTokens.Request_BuyTokens:FireServer(-Amount)",
-    "date": "2022-08-18 01:05:50",
+    "date": "5-03-2023 01:05:50",
     "slug": "anime-squad-simulator-script-inf-money",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-65-pta4z43bdxo3zauz03aex2q0p0ro9xih6ijxb3o63c-150x124.png"
@@ -223,7 +223,7 @@
     "id": 3447,
     "title": "Block Tycoon Script | CHEAPER SHOP",
     "excerpt": "game:GetService(\"UserInputService\").InputEnded:Connect(function(Input)\r\nif Input.KeyCode == Enum.KeyCode.Quote then\r\ngame:GetService(\"ReplicatedStorage\").ShopE:FireServer(1, {game:GetService(\"Players\").LocalPlayer.PlayerGui.MainGui.ShopFrame.SelectedListing.Value, 0.5})\r\nend\r\nend)",
-    "date": "2022-08-18 01:05:41",
+    "date": "5-03-2023 01:05:41",
     "slug": "block-tycoon-script-cheaper-shop",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-64-pta4vycuezceyhg6g84k1df8tec9ejyyevm68mct08-150x124.png"
@@ -233,7 +233,7 @@
     "id": 3445,
     "title": "Notoriety Script | TELEPORT PLAYER/BAGS TO VAN, DELETE NPCs, INSTANT INTERACT &amp; MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Lucas559-noob/Roblox-Scripts/main/Notoriety\",true))()",
-    "date": "2022-08-18 01:05:25",
+    "date": "5-03-2023 01:05:25",
     "slug": "notoriety-script-teleport-player-bags-to-van-delete-npcs-instant-interact-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-61-pta4mmsgn4l1tozlvp2qt83oqua82lys4qptwu6cpk-150x124.png"
@@ -243,7 +243,7 @@
     "id": 3443,
     "title": "Starving Artist Script | RICH PLAYER HIGHLIGHTS/CHAMS",
     "excerpt": "getgenv().settings = {\r\nminBought = 100, -- the minimum amount of robux someone has bought for art in the past\r\nhighlightColor = Color3.fromRGB(49, 145, 34) -- the color of the highlight/chams\r\n}\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/Kitzoon/Roblox-Scripts/main/Rich%20Player%20Highlights.lua\", true))()",
-    "date": "2022-08-18 01:05:14",
+    "date": "5-03-2023 01:05:14",
     "slug": "starving-artist-script-rich-player-highlights-chams",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/unknown-9-pta4gg0pne43e3z70is5wabfyis8eceea43r69cno8-150x124.png"
@@ -253,7 +253,7 @@
     "id": 3441,
     "title": "Tapping Simulator Script | AUTO CLICK, AUTO REBIRTH, AUTO OPEN EGGS &amp; MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LagunScript/LagunScript/main/Tapper%20Simulator\"))()",
-    "date": "2022-08-18 01:05:06",
+    "date": "5-03-2023 01:05:06",
     "slug": "tapping-simulator-script-auto-click-auto-rebirth-auto-open-eggs-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/unknown-7-pta4d8ekarptq2n4rmt1vlhqw4m33kneu7v15842xk-150x124.png"
@@ -263,7 +263,7 @@
     "id": 3439,
     "title": "Tapping Simulator Script GUI | AUTO FARM &amp; MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua\"))()",
-    "date": "2022-08-18 01:04:59",
+    "date": "5-03-2023 01:04:59",
     "slug": "tapping-simulator-script-gui-auto-farm-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/unknown-10-pta4a3lxinff0v6z2a1tkdyflw21fw7mepkrk0rbo8-150x124.webp"
@@ -273,7 +273,7 @@
     "id": 3437,
     "title": "School Of Sport Script GUI | COLLECT ALL COINS, COLLECT ALL STICKERS &amp; MORE!",
     "excerpt": "_G.RedGUI = true\r\n_G.Theme = \"Dark\" -- Must disable or remove _G.RedGUI to use\r\n--Themes: Light, Dark, Mocha, Aqua and Jester\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SchoolofSport.lua\"))()",
-    "date": "2022-08-18 01:04:52",
+    "date": "5-03-2023 01:04:52",
     "slug": "school-of-sport-script-gui-collect-all-coins-collect-all-stickers-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/Png-21-1-300x169-1-pta471mtb18vahmpwgigynpi3t43fb30zl8yenadw8-150x124.png"
@@ -283,7 +283,7 @@
     "id": 3435,
     "title": "Yo-Yo Simulator Script | AUTO REBIRTH, AUTO YO-YO, AND MUCH MORE!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/boxiesss/YoYoSimHub/main/Script.lua\", true))()",
-    "date": "2022-08-18 01:04:32",
+    "date": "5-03-2023 01:04:32",
     "slug": "yo-yo-simulator-script-auto-rebirth-auto-yo-yo-and-much-more",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/EvDQyiS-1598979205-pta43uyi58vvy29ai2xzign9mstbc8frvtnpuw0ezc-150x124.png"
@@ -293,7 +293,7 @@
     "id": 3433,
     "title": "DIZZY HUB | 17 GAMES | FREE HUB",
     "excerpt": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/dizyhvh/rbx_scripts/main/dizzy_hub/loader.lua\")))();",
-    "date": "2022-08-18 01:04:23",
+    "date": "5-03-2023 01:04:23",
     "slug": "dizzy-hub-17-games-free-hub",
     "featured_image": {
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2022/08/qs7f6VF-2710254743-1-pta3xijq0i77kth2ju7n6ka9a634ds900f4q8nf2zc-150x124.webp"
