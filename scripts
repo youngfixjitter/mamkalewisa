@@ -1,12 +1,22 @@
 [
   {
     "id": 1,
-    "title": "Dex Explorer Script | Hack | Remote Spy | Any Game",
+    "title": "Dex Explorer | Hack | Remote Spy | Any Game",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/wow.lua\"))()",
     "date": "05.02.2023",
     "slug": "dex-explorer-script",
     "featured_image": {
       "thumbnail": "https://robloxscripts.com/wp-content/uploads/2022/05/bc1c2bc1fa799eac9c5810378cf63b25-4134525143-1.png"
     }
-  }
+  },
+  {
+    "id": 1,
+    "title": "Project WD Hub | Pet Simulator X | Doors | Mining Simulator 2 | Evade | Slime Tycoon | Shindo Life",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "project-wd-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
 ]
