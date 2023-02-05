@@ -39,4 +39,114 @@
       "thumbnail": "https://scripts.trx-roblox.com/img/post/vdYxYMB"
     }
    },
+    {
+    "id": 5,
+    "title": "Bee Swarm Simulator: Auto Dig, Auto Srinkler & More",
+    "excerpt": "loadstring(game:HttpGet(/'https://s.kometa.ga/kometa.lua/'))()",
+    "date": "05.02.2023",
+    "slug": "kometa-script",
+    "featured_image": {
+      "thumbnail": "https://rbxscript.com/images/-fEY7ZIcR2v-image.jpg"
+    }
+   },
+    {
+    "id": 6,
+    "title": "Combat Warriors: Kill Aura, Auto Parry, Anti Parry",
+    "excerpt": "loadstring(game:HttpGet(/"https://raw.githubusercontent.com/leakediz/top-g/main/combat%20warriors/"))()",
+    "date": "05.02.2023",
+    "slug": "combat-warriors-script",
+    "featured_image": {
+      "thumbnail": "https://rbxscript.com/images/-2uHEykzXjD-image.jpg"
+    }
+   },
+    {
+    "id": 7,
+    "title": "Combat Warriors: Kill Aura, Auto Equip, Stomp Aura",
+    "excerpt": "local load_,l,g = "https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/NOVA_HUB_SOURCE",function(a)return loadstring(a)()end,game;local s,r = pcall(g.HttpGet,g,load_)pcall(l,r)",
+    "date": "05.02.2023",
+    "slug": "combat-warriors-script",
+    "featured_image": {
+      "thumbnail": "https://rbxscript.com/images/-vyNVomlZdS-image.jpg"
+    }
+   },
+    {
+    "id": 8,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 9,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 10,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 11,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 12,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 13,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 14,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 15,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
 ]
