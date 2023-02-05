@@ -1,6 +1,6 @@
-    [
-    {
-    "id": 3492,
+[
+  {
+    "id": 1,
     "title": "Dex Explorer Script | Hack | Remote Spy | Any Game",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/wow.lua\"))()",
     "date": "05.02.2023",
@@ -8,5 +8,5 @@
     "featured_image": {
       "thumbnail": "https://robloxscripts.com/wp-content/uploads/2022/05/bc1c2bc1fa799eac9c5810378cf63b25-4134525143-1.png"
     }
-},
-}
+  }
+]
