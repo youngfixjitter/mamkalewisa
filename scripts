@@ -26,17 +26,17 @@
     "date": "05.02.2023",
     "slug": "lkhub-script",
     "featured_image": {
-      "thumbnail": ""
+      "thumbnail": "https://lkhub.net/assets/png/psx_image.png"
     }
    },
     {
     "id": 4,
     "title": "Bee Swarm Simulator: Auto Dig, Auto Sprinkler, Auto Plant",
-    "excerpt": "loadstring(game:HttpGet("\https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua\"))()",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua\"))()",
     "date": "05.02.2023",
     "slug": "kocmoc-script",
     "featured_image": {
-      "thumbnail": ""
+      "thumbnail": "https://scripts.trx-roblox.com/img/post/vdYxYMB"
     }
    },
 ]
