@@ -1,4 +1,15 @@
 [
+{
+    "id": 1,
+    "title": "Dex Explorer",
+    "excerpt": "loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt"))()",
+    "date": "05.02.2023",
+    "slug": "dex-explorer-script",
+    "featured_image": {
+      "thumbnail": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/d/c/3/dc31a109b3ee55701bbfedb5e0f2a79f80e7ebd8.png"
+
+}
+},
    {
     "id": 3491,
     "title": "Victory Race Script | AUTO FARM",
