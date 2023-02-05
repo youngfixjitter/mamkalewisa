@@ -280,7 +280,7 @@
     }
    },
     {
-    "id": ,
+    "id": 29,
     "title": "Murder Mystery 2: Esp",
     "excerpt": "loadstring(game:HttpsGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/murder2.lua\", true))()",
     "date": "05.02.2023",
