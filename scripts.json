@@ -279,4 +279,16 @@
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071716090536800276/image.png"
     }
    },
+    {
+    "id": ,
+    "title": "Murder Mystery 2: Esp",
+    "excerpt": "loadstring(game:HttpsGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/murder2.lua\", true))()",
+    "date": "05.02.2023",
+    "slug": "murder-mystery-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071721182069534781/image.png"
+    }
+   },
+    
+
 ]
