@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Dex Explorer | Hack | Remote Spy | Any Game",
+    "title": "Dex Explorer: Hack, Remote Spy, Any Game",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/wow.lua\"))()",
     "date": "05.02.2023",
     "slug": "dex-explorer-script",
@@ -11,12 +11,32 @@
   },
   {
     "id": 2,
-    "title": "Project WD Hub | Pet Simulator X | Doors | Mining Simulator 2 | Evade | Slime Tycoon | Shindo Life",
+    "title": "Project WD Hub: Pet Simulator X, Doors, Mining Simulator 2, Evade, Slime Tycoon, Shindo Life",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua\"))()",
     "date": "05.02.2023",
     "slug": "project-wd-script",
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071685387841437706/IMG_5148.jpg"
+    }
+   },
+    {
+    "id": 3,
+    "title": "Pet Simulator X: Multi Target Auto Farm, Egg Auto Open & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "lkhub-script",
+    "featured_image": {
+      "thumbnail": "https://rbxscript.com/images/-75f0hEBuZH-image.jpg"
+    }
+   },
+    {
+    "id": 4,
+    "title": "Bee Swarm Simulator: Auto Dig, Auto Sprinkler, Auto Plant",
+    "excerpt": "loadstring(game:HttpGet("\https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "kocmoc-script",
+    "featured_image": {
+      "thumbnail": "https://rbxscript.com/images/-tQ8ATFvUDK-image.jpg"
     }
    },
 ]
