@@ -46,7 +46,7 @@
     "date": "05.02.2023",
     "slug": "kometa-script",
     "featured_image": {
-      "thumbnail": "https://rbxscript.com/images/-fEY7ZIcR2v-image.jpg"
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071695988206612580/image.png"
     }
    },
     {
@@ -56,7 +56,7 @@
     "date": "05.02.2023",
     "slug": "combat-warriors-script",
     "featured_image": {
-      "thumbnail": "https://rbxscript.com/images/-2uHEykzXjD-image.jpg"
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071696189218639953/image.png"
     }
    },
     {
@@ -66,7 +66,87 @@
     "date": "05.02.2023",
     "slug": "combat-warriors-script",
     "featured_image": {
-      "thumbnail": "https://rbxscript.com/images/-vyNVomlZdS-image.jpg"
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071696260320473129/image.png"
+    }
+   },
+    {
+    "id": 8,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 9,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 10,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 11,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 12,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 13,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 14,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+   },
+    {
+    "id": 15,
+    "title": "",
+    "excerpt": "",
+    "date": "05.02.2023",
+    "slug": "-script",
+    "featured_image": {
+      "thumbnail": ""
     }
    },
 ]
