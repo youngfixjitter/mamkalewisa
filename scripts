@@ -22,7 +22,7 @@
     {
     "id": 3,
     "title": "Pet Simulator X: Multi Target Auto Farm, Egg Auto Open & More",
-    "excerpt": "",
+    "excerpt": "loadstring(game:HttpGet(\"https://lkhub.net/s/loader.lua\"))()",
     "date": "05.02.2023",
     "slug": "lkhub-script",
     "featured_image": {
@@ -32,11 +32,11 @@
     {
     "id": 4,
     "title": "Bee Swarm Simulator: Auto Dig, Auto Sprinkler, Auto Plant",
-    "excerpt": "",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua\"))()",
     "date": "05.02.2023",
     "slug": "kocmoc-script",
     "featured_image": {
       "thumbnail": "https://scripts.trx-roblox.com/img/post/vdYxYMB"
     }
-   },
+   }
 ]
