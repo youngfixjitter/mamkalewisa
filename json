@@ -12,7 +12,7 @@
     {
     "id": 3492,
     "title": "Dex Explorer Script | Hack | Remote Spy | Any Game",
-    "excerpt": "loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt"))()",
+    "excerpt": "loadstring(game:HttpGet("https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/wow"))()",
     "date": "05.02.2023",
     "slug": "dex-explorer-script",
     "featured_image": {
