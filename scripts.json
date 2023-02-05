@@ -69,5 +69,84 @@
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071696260320473129/image.png"
     }
    },
-    
+    {
+    "id": 8,
+    "title": "Combat Warriors Hub",
+    "excerpt": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/WinterDinder/sadness/main/keysystem\"), true))() local Module = loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "combat-warriors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071702408998158427/image.png"
+    }
+   },
+    {
+    "id": 9,
+    "title": "Doomspire Brickbattle: Walkspeed, Jump Power, ESP",
+    "excerpt": "loadstring(game:HttpGet((\"https://pastebin.com/raw/mT10xnt7\"), true))()",
+    "date": "05.02.2023",
+    "slug": "doomspire-brickbattle-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071702650841747506/image.png"
+    }
+   },
+    {
+    "id": 10,
+    "title": "Doomspire Brickbattle",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub\", true))()",
+    "date": "05.02.2023",
+    "slug": "doomspire-brickbattle-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703013472866334/image.png"
+    }
+   },
+    {
+    "id": 11,
+    "title": "DOORS: Players Esp, Client Glow, Doors Esp",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "doors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703292138233896/image.png"
+    }
+   },
+    {
+    "id": 12,
+    "title": "DOORS: Esp, Auto Escape, Auto Farm",
+    "excerpt": "loadstring(game:HttpGet(\"https://ppearl.vercel.app\"))()",
+    "date": "05.02.2023",
+    "slug": "doors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703514398593055/image.png"
+    }
+   },
+    {
+    "id": 13,
+    "title": "DOORS: Skip Door, Auto Farm, Remove Walls",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GamingResources/GamingResources-Script-Hub/main/Key%20System\", true))()",
+    "date": "05.02.2023",
+    "slug": "doors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703676030287924/image.png"
+    }
+   },
+    {
+    "id": 14,
+    "title": "Cool Pro Hax: Aimbot, Esp, Any game",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "universal-feesp-feaimbot-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071705750348509296/image.png"
+    }
+   },
+    {
+    "id": 15,
+    "title": "Project Slayers: Auto Farm Bosses, Killaura, Inf Stamina",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TweedLeak/Scripts/main/Project-Slayers.lua\"))() ",
+    "date": "05.02.2023",
+    "slug": "project-slayers-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071706403137388554/image.png"
+    }
+   },
 ]
