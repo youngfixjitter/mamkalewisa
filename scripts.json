@@ -42,7 +42,7 @@
     {
     "id": 5,
     "title": "Bee Swarm Simulator: Auto Dig, Auto Srinkler & More",
-    "excerpt": "loadstring(game:HttpGet(\'https://s.kometa.ga/kometa.lua\'))()",
+    "excerpt": "loadstring(game:HttpGet(\"https://s.kometa.ga/kometa.lua\"))()",
     "date": "05.02.2023",
     "slug": "kometa-script",
     "featured_image": {
