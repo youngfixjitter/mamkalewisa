@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "Project WD Hub: Pet Simulator X, Doors, Mining Simulator 2, Evade, Slime Tycoon, Shindo Life",
-    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua\"))()",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Mainstring.lua\"))()",
     "date": "05.02.2023",
     "slug": "project-wd-script",
     "featured_image": {
