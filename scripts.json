@@ -18,8 +18,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071685387841437706/IMG_5148.jpg"
     }
-   },
-    {
+  },
+  {
     "id": 3,
     "title": "Pet Simulator X: Multi Target Auto Farm, Egg Auto Open & More",
     "excerpt": "loadstring(game:HttpGet(\"https://lkhub.net/s/loader.lua\"))()",
@@ -28,8 +28,8 @@
     "featured_image": {
       "thumbnail": "https://lkhub.net/assets/png/psx_image.png"
     }
-   },
-    {
+  },
+  {
     "id": 4,
     "title": "Bee Swarm Simulator: Auto Dig, Auto Sprinkler, Auto Plant",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua\"))()",
@@ -38,8 +38,8 @@
     "featured_image": {
       "thumbnail": "https://scripts.trx-roblox.com/img/post/vdYxYMB"
     }
-   },
-    {
+  },
+  {
     "id": 5,
     "title": "Bee Swarm Simulator: Auto Dig, Auto Srinkler & More",
     "excerpt": "loadstring(game:HttpGet(\"https://s.kometa.ga/kometa.lua\"))()",
@@ -48,8 +48,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071695988206612580/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 6,
     "title": "Combat Warriors: Kill Aura, Auto Parry, Anti Parry",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/leakediz/top-g/main/combat%20warriors\"))()",
@@ -58,8 +58,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071696189218639953/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 7,
     "title": "Combat Warriors: Kill Aura, Auto Equip, Stomp Aura",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/NOVA_HUB_SOURCE\"))()",
@@ -68,8 +68,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071696260320473129/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 8,
     "title": "Combat Warriors Hub",
     "excerpt": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/WinterDinder/sadness/main/keysystem\"), true))() local Module = loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua\"))()",
@@ -78,8 +78,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071702408998158427/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 9,
     "title": "Doomspire Brickbattle: Walkspeed, Jump Power, ESP",
     "excerpt": "loadstring(game:HttpGet((\"https://pastebin.com/raw/mT10xnt7\"), true))()",
@@ -88,8 +88,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071702650841747506/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 10,
     "title": "Doomspire Brickbattle",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub\", true))()",
@@ -98,8 +98,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703013472866334/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 11,
     "title": "DOORS: Players Esp, Client Glow, Doors Esp",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua\"))()",
@@ -108,8 +108,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703292138233896/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 12,
     "title": "DOORS: Esp, Auto Escape, Auto Farm",
     "excerpt": "loadstring(game:HttpGet(\"https://ppearl.vercel.app\"))()",
@@ -118,8 +118,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703514398593055/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 13,
     "title": "DOORS: Skip Door, Auto Farm, Remove Walls",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GamingResources/GamingResources-Script-Hub/main/Key%20System\", true))()",
@@ -128,8 +128,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703676030287924/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 14,
     "title": "Cool Pro Hax: Aimbot, Esp, Any game",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua\"))()",
@@ -138,8 +138,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071705750348509296/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 15,
     "title": "Project Slayers: Auto Farm Bosses, Killaura, Inf Stamina",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TweedLeak/Scripts/main/Project-Slayers.lua\"))() ",
@@ -148,8 +148,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071706403137388554/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 16,
     "title": "+1 Blocks Every Second: Auto Farm",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/1BlocksEverySecond.lua\"))()",
@@ -158,8 +158,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071710025623556166/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 17,
     "title": "Murder Mystery 2: Auto Farm, Godmode, Invis god",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OneProtocol/Project/main/Loader\", true))()",
@@ -168,8 +168,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071710296529457233/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 18,
     "title": "Project New World: Chest farm autohop",
     "excerpt": "loadstring(game:HttpGet(\"https://srilol.tk\"))()",
@@ -178,8 +178,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071712027518701589/image.png"
     }
-   },
-   {
+  },
+  {
     "id": 19,
     "title": "Sword Fighters Simulator: Auto Click, Auto Ascend, Auto Upgrade",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SwordFightersSimulator.lua\"))()",
@@ -188,8 +188,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071712488401408141/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 20,
     "title": "Anime Weapon Simulator: Auto Runk Up, Auto Click, Auto Collect Coins",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KodaLINEN/AnimeWeaponsSimulator/main/Main\"))()",
@@ -198,8 +198,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071712656895000607/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 21,
     "title": "Phantom Forces: Silent, Aimbot, Esp, Kill All, Strawhook",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VoidMasterX/strawhook/main/script.lua\", true))()",
@@ -208,8 +208,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071714290366689361/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 22,
     "title": "Phantom Forces: Unlock all",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VoidMasterX/Releases/main/PF_UnlockAll.lua\"))();",
@@ -218,8 +218,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071714650342830190/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 23,
     "title": "Arsenal: Silent Aim, Gun Mods, Esp",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ccxmIcal/cracks/main/strikehub.lua\"))()",
@@ -228,8 +228,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715155714506793/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 24,
     "title": "Arsenal: Aimbot, Silent Aim & More",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub\"))()",
@@ -238,8 +238,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715321813143552/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 25,
     "title": "Arsenal: Walkspeed, Jump Power, Super Human",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Ragoon821/ScriptXHub-v2/main/ScriptXhub%20v2.1-serpent\"))()",
@@ -248,8 +248,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715465157689344/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 26,
     "title": "Blox Fruits: Simple Chest Auto Farm",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nuqi7/TP-Chest-Blox-Fruit/main/TPChest.lua\"))()",
@@ -258,8 +258,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715591334940742/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 27,
     "title": "Your Bizarre Adventure: Item Farm, Pickup Items, Mob Auto Farm",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua\"))()",
@@ -268,8 +268,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715908353003580/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 28,
     "title": "Your Bizarre Adventure: Auto Farm Quests, Auto Farm NPC's, Use Stands",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/yba2\", true))()",
@@ -278,8 +278,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071716090536800276/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 29,
     "title": "Murder Mystery 2: Esp",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/murder2.lua\", true))()",
@@ -288,8 +288,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071721182069534781/image.png"
     }
-   },
-   {
+  },
+  {
     "id": 30,
     "title": "Bee Swarm Simulator: Hub",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB\",true))()",
@@ -298,8 +298,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071723451859075102/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 31,
     "title": "Infinite Yield: Admin Features, Fly, Noclip",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\",true))()",
@@ -308,8 +308,8 @@
     "featured_image": {
       "thumbnail": ""
     }
-   },
-    {
+  },
+  {
     "id": 32,
     "title": "Arsenal: Aimbot, ESP, Fov",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Fatida11/Universal-Aimbot-ESP/main/Universal%20Aimbot-ESP\"))()",
@@ -318,8 +318,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071725612613521459/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 33,
     "title": "Fling: Any game, Punch Players",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/fling.lua\"))()",
@@ -328,8 +328,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071726282980728834/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 34,
     "title": "Lyrics Bot: Let People Request Songs",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CF-Trail/lyricsBot/main/singer.lua\"))()",
@@ -338,8 +338,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071726702142697482/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 35,
     "title": "Sword Fighters Simulator: Kill Aura, Auto Farm, Collect Coins",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KodaLINEN/Sword-Fighters-/main/Main\"))()",
@@ -348,8 +348,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727009148969021/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 36,
     "title": "Bot Clash: Auto Farm, Auto Spin & More",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Krackenz/RobloxScripts/main/Protected%20(6).lua\",true))()",
@@ -358,8 +358,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727284869922908/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 37,
     "title": "Da Hood: Fly, SilentAim",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood\", true))()",
@@ -368,8 +368,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727565259157554/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 38,
     "title": "Aero Hub: 30+ Games",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/aerocontentdeliverynetwork/3456465f7453x447r76h86856233423645756354b/master/loader.lua\"))()",
@@ -378,8 +378,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727856620675192/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 39,
     "title": "SPTS Origins: Auto Farm & More",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/deltvx/script.gg/main/Loader.lua\", true))()",
@@ -388,8 +388,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071729888496722010/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 40,
     "title": "Pet Simulator X: AutoFarm, Auto Egg & More",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/senpaigm/Cat-Hub/main/PetSimulatorXx.lua\"))()",
@@ -398,8 +398,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071736870372905081/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 41,
     "title": "Da Hood: Auto Buy, Money Give, Give Guns, Aimbot, Auto Box, Kill Aura & More!",
     "excerpt": "loadstring(game:HttpsGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/dada.lua\"))()",
@@ -408,8 +408,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071737932026757191/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 42,
     "title": "Obscure Hub: 30+ Games",
     "excerpt": "loadstring(game:HttpGet(\"https://www.obscurity.cf/Loader.lua\"))()",
@@ -418,8 +418,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071738668022243419/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 43,
     "title": "Ability Wars: Anti Knockback, Attack Aura , Walk speed",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Sw1ndlerScripts/RobloxScripts/main/AbilityWars.lua\"))()",
@@ -428,8 +428,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071739236325277696/image.png"
     }
-   },
-    {
+  },
+  {
     "id": 44,
     "title": "Shipping Lanes: All Teleports, Auto Refuel Ship, Auto Repair Ship",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sewerslut/Roblox/main/Games/Shipping-Lanes\"))()",
@@ -438,8 +438,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071741125716619305/image.png"
     }
-   }, 
-    {
+  },
+  {
     "id": 45,
     "title": "Shindo Life: Auto Farm, Boss Farm, Jin Farm",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Xiovr/Roblox/main/SL.lua\"))()",
@@ -448,8 +448,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071741704102752286/image.png"
     }
-   }, 
-    {
+  },
+  {
     "id": 46,
     "title": "Blox Fruits | BuyItem, AutoFarm",
     "excerpt": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Nub-V1-Hub-4583\"))()",
@@ -458,8 +458,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071741837901058128/image.png"
     }
-   }, 
-    {
+  },
+  {
     "id": 47,
     "title": "Blox Fruits: Teleports, Dungeon Section & More",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/playbackx\", true))()",
@@ -468,8 +468,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071742132622217266/image.png"
     }
-   }, 
-    {
+  },
+  {
     "id": 48,
     "title": "Blox Fruits: Auto Farm Level, Teleports & More",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/wowww.lua\"))()",
@@ -478,8 +478,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071742323823747134/image.png"
     }
-   }, 
-    {
+  },
+  {
     "id": 49,
     "title": "Horrific Housing: Infinity Money, Auto Farm, Teleports",
     "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/GzZjj\", true))()",
@@ -488,8 +488,8 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071742726434979911/image.png"
     }
-   }, 
-    {
+  },
+  {
     "id": 50,
     "title": "Universal: AntiAFK",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind\", true))()",
@@ -498,5 +498,105 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071743568235999292/image.png"
     }
-   }, 
+  },
+  {
+    "id": 51,
+    "title": "The Rake Remastered: Esp, Stamina, No fall Damage",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RealZzHub/MainV2/main/Main.lua\"))()",
+    "date": "01.04.2023",
+    "slug": "the-rake-remastered-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1091801262510592031/image.png"
+    }
+  },
+  {
+    "id": 52,
+    "title": "Prison Life: Kill Aura, Arrest All",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt\"))()",
+    "date": "01.04.2023",
+    "slug": "prison-life-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1091802207827009566/image.png"
+    }
+  },
+  {
+    "id": 53,
+    "title": "Prison Life: Admin Commands",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/wMagw9Cn\", true))()",
+    "date": "01.04.2023",
+    "slug": "prison-life-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1091803772889608202/image.png"
+    }
+  },
+  {
+    "id": 54,
+    "title": "Blox fruits: Auto Farm",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/acsu123/HohoV2/main/ScriptLoad.lua\"))()",
+    "date": "01.04.2023",
+    "slug": "blox-fruits-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1091810247288570076/image.png"
+    }
+  },
+  {
+    "id": 55,
+    "title": "YBA: Fly, SpeedHack, AutoFarm, Esp",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua\"))()",
+    "date": "02.04.2023",
+    "slug": "your-bizarre-adventure-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1091999203141636106/image.png"
+    }
+  },
+  {
+    "id": 56,
+    "title": "AUT: AutoChest, Speedhack, Jumphuck, Godmode",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sannin9000/scripts/main/aut.lua\"))()",
+    "date": "02.04.2023",
+    "slug": "aut-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1092000897988562995/image.png"
+    }
+  },
+  {
+    "id": 57,
+    "title": "AUT:Speedhack, Jumphuck, Godmode",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ewyzu/ewyzu-mainHHH/main/ewyzu-AUT\"))()",
+    "date": "02.04.2023",
+    "slug": "aut-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1092001929510539295/image.png"
+    }
+  },
+  {
+    "id": 58,
+    "title": "D-Day: Aim",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/iQAIRHUB/Project-Ripple/main/D-DAY/V3.0.3\",true))()",
+    "date": "02.04.2023",
+    "slug": "d-day-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1092004657724924035/image.png"
+    }
+  },
+  {
+    "id": 59,
+    "title": "Natural Disaster Survival: FE",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/9NLK7/93qjoadnlaknwldk/main/main\"))()",
+    "date": "02.04.2023",
+    "slug": "natural-disaster-survival-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1092005662126518282/image.png"
+    }
+  },
+  {
+    "id": 60,
+    "title": "Jailbreak: Car, Esp, Remove Doors",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/mhub\", true))()",
+    "date": "02.04.2023",
+    "slug": "jail-break-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1092007623253033051/image.png"
+    }
+  }
 ]
